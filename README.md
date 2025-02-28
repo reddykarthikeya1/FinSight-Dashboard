@@ -18,3 +18,5 @@ This project is an end-to-end financial data analysis and visualization dashboar
 3. Run the dashboard: streamlit run dashboard.py
 4. Enjoy exploring the data!
 
+## Deployed Dashboard
+https://finsightdashboard.streamlit.app/
