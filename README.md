@@ -21,5 +21,5 @@ This project is an end-to-end financial data analysis and visualization dashboar
 ## Deployed Dashboard
 https://finsightdashboard.streamlit.app/
 
-#Blog Post - Medium
+## Blog Post - Medium
 https://medium.com/@reddykarthikeya1/building-an-interactive-financial-dashboard-with-streamlit-and-plotly-a-step-by-step-tutorial-4b9973b62be5
